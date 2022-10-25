@@ -1,1 +1,1 @@
-Link do site do projeto <a href="https://cleciolira.github.io/Projeto-ANDROID/">Site Android</a>
+Link do site do projeto: <a href="https://cleciolira.github.io/Projeto-ANDROID/">Site Android</a>
